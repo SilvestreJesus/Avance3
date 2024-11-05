@@ -16,7 +16,7 @@ header {
     position: relative;
 }
 #nav > ul > li > a {
-    color: #f0f0c9;
+    color: #221E22;
     text-decoration: none;
     padding: 10px;
     display: block;
@@ -49,13 +49,13 @@ header {
 
 #h1 h1{
     font-family: Arial, Helvetica, sans-serif;
-    color: #ffffff;
+    color: #EE5622;
     text-align: center;
     font-size: 20px;
 }
 h1{
     
-    color: #741278;
+    color: #221E22;
     text-align: center;
 }
 h2{
@@ -88,5 +88,18 @@ a:hover {
     font-style: normal;
   }
   body{
-    background-color: #C9F0EB
+    background-color: #9297C4;
+  }
+ header{
+    background-color: #F2E86D;
+    color: #A38560;
+    padding: 1em;
+    border-bottom: 5px solid #574D68;
+  }
+  header p{
+    color: #221E22;
+    font-size: 1rem;
+  }
+  a{
+    color:#243119;
   }
